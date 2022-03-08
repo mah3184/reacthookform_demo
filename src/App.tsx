@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { CustomCheckBox } from './components/atoms/CustomCheckBox';
 import { Box, Button, Checkbox, FormControl, FormControlLabel, FormGroup, FormHelperText, FormLabel, Grid } from '@material-ui/core';
 import { Controller, FieldValues, useForm } from 'react-hook-form';
 
